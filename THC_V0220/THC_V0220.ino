@@ -21,7 +21,7 @@
    V02.10  digitalWrite() => PORTC, PORTD (cf IN_OUT.h)
    V02.11  correction demi-hauteur : cf fonction move_torch()
    V02.11c adapté pour simulation avec "SIMUL_Z.ino"
-   V02.20  
+   V02.20  en cours ...
 
   *********************************************************************************************
   Documentations sur ADC Arduino :
